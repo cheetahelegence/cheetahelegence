@@ -1,3 +1,4 @@
+
 <!--
 **cheetahelegence/cheetahelegence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,7 +29,7 @@ A collaborative travel expense application that helps users track expenses, spli
 **Tech Stack:**
 React | Node.js | Express | Supabase | PostgreSQL
 
-[Project Screenshot]
+<img width="898" height="624" alt="Screenshot 2026-09-03 at 3 30 20 PM" src="https://github.com/user-attachments/assets/99be0026-57d6-453c-9cab-66bafbd46ef0" />
 
 ## ✨ Cloud Projects
 
