@@ -19,7 +19,7 @@ I'm an IT master's graduate with a strong interest in cloud technologies and bac
 
 I'm naturally curious and always looking for opportunities to learn, build, and gain more hands-on experience through practical projects. My long-term goal is to grow into a capable Cloud or DevOps Engineer who can independently design, build, and maintain reliable systems.
 
-## Currently Building
+## ✨ Currently Building
 
 ### Voya – AI-Powered Travel Expense Management
 
@@ -30,13 +30,13 @@ React | Node.js | Express | Supabase | PostgreSQL
 
 [Project Screenshot]
 
-## Cloud Projects
+## ✨ Cloud Projects
 
 * [AWS Project 1](your-project-link)
 * [AWS Project 2](your-project-link)
 * [Cloud Deployment Project](your-project-link)
 
-## Tech Stack
+## ✨ Tech Stack
 
 **Languages & Development**
 Python | JavaScript | React | Node.js
